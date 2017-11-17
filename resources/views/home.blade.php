@@ -14,7 +14,8 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    You are in a branch in git called issue now for the second time
+                    
                 </div>
             </div>
         </div>
